@@ -8,7 +8,10 @@ public class User {
 	private int uId;
 	private String uName;
 	private int uSex;
-	
+	/**
+	 * 傻逼红
+	 * @return
+	 */
 	public int getuId() {
 		return uId;
 	}
