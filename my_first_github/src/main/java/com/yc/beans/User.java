@@ -7,7 +7,11 @@ public class User {
 	 */
 	private int uId;
 	private String uName;
-	
+	private int uSex;
+	/**
+	 * 傻逼红
+	 * @return
+	 */
 	
 	public int getuId() {
 		return uId;
@@ -20,6 +24,12 @@ public class User {
 	}
 	public void setuName(String uName) {
 		this.uName = uName;
+	}
+	public int getuSex() {
+		return uSex;
+	}
+	public void setuSex(int uSex) {
+		this.uSex = uSex;
 	}
 	
 }
