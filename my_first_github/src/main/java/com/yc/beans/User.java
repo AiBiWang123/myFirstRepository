@@ -3,7 +3,7 @@ package com.yc.beans;
 public class User {
 
 	/**
-	 * 坚实的福利卡时代峻峰
+	 * 坚实的福利卡时代峻峰jlj
 	 */
 	private int uId;
 	private String uName;
