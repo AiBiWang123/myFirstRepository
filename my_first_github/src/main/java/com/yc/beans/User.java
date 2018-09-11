@@ -2,6 +2,9 @@ package com.yc.beans;
 
 public class User {
 
+	/**
+	 * 新增
+	 */
 	private int uId;
 	private String uName;
 	private int uSex;
