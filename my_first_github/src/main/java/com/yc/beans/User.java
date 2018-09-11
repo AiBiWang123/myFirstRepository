@@ -8,7 +8,6 @@ public class User {
 	private int uId;
 	private String uName;
 	private int uSex;
-	private String uAddr;
 	
 	public int getuId() {
 		return uId;
@@ -28,12 +27,5 @@ public class User {
 	public void setuSex(int uSex) {
 		this.uSex = uSex;
 	}
-	public String getuAddr() {
-		return uAddr;
-	}
-	public void setuAddr(String uAddr) {
-		this.uAddr = uAddr;
-	}
-	
 	
 }
