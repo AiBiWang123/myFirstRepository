@@ -7,5 +7,6 @@ public class HelloGitHub {
 		System.out.println("你想干嘛 !!!");
 		System.out.println("哈哈");
 		System.out.println("嘻嘻");
+		System.out.println("hh");
 	}
 }
