@@ -7,9 +7,6 @@ public class HelloGitHub {
 		System.out.println("==000000===");
 		System.out.println("!!!");
 		System.out.println("哈哦");
-		System.out.println("123");
-		System.out.println("哈哈");
-		System.out.println("嘻嘻");
-		System.out.println("hh");
+		
 	}
 }
